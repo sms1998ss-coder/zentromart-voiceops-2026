@@ -1,0 +1,7 @@
+google-genai
+gnani-vachana
+gradio
+pandas
+python-dotenv
+sentence-transformers
+faiss-cpu
