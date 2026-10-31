@@ -1,0 +1,5 @@
+Customer STT: i cancelled an order today how many business days will it take for the refund to credit into my account
+
+Agent Reply: When an order is cancelled before shipping, the refund is initiated immediately. Refunds usually take 5 to 7 days to reach your account (by October 27 or 28, 2026, depending on business or calendar days).
+
+Sources Used: ['[Source: faq_general.md] ## [FAQ-1] How long do refunds take?\nRefunds usually take 5 to 7 days to reach your account.', '[Source: pol_refunds.md] ## [REF-1] When a refund is initiated\n- **Cancelled before shipping:** immediately on cancellation.\n- **Returned item:** after the item passes quality check, within 2 business days of pickup. ZentroMart Plus members: at pickup.\n- **Prepaid order refused at the door or not delivered after 3 attempts:** once the parcel reaches the warehouse, usually 7 to 10 calendar days after the last delivery attempt.', '[Source: pol_payments_cod.md] ## [PAY-3] Failed payments\nIf money was deducted but the order was not placed, the amount is reversed automatically by the payment provider within 5 business days. No ticket is needed before that.']

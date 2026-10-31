@@ -1,0 +1,7 @@
+Customer STT: i opened my delivery order one three three nine six nine six five and the laptop screen is completely shattered into pieces my pin code is one six zero zero one seven
+
+Agent Reply: I have verified your details for order 13396965. However, I notice that the item listed in this order is the "UrbanThread Slim Fit Jeans, Maroon" (SKU: FSH-0030) rather than a laptop. 
+
+Because you have reported a damaged/shattered item, I have escalated this issue and created a support ticket (Ticket ID: `TKTde4e0cd3deeb473b83779d553efce52e`) for human review. A support representative will review your case and reach out to help you sort this out as soon as possible.
+
+Sources Used: ['[Source: help_troubleshooting_electronics.md] If the problem continues after these steps, the item can be returned within its window or claimed under warranty.', '[Source: help_troubleshooting_electronics.md] Try these steps before raising a return or warranty claim.', '[Source: agent_escalation_handoff.md] 1. **Damaged, defective or wrong item worth more than ₹10,000.**\n2. **Customer reports an order, payment or account activity they did not make.**\n3. **Customer mentions legal action, a consumer court or a police complaint.**\n4. **Third or later contact about the same issue within 7 days.**\n5. **Refund more than 3 business days past its maximum timeline.**\n6. **Customer asks for a human agent.**\n7. **Product safety risk such as a swelling battery, burning smell, sparks or injury.**']

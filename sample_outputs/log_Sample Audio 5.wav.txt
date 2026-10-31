@@ -1,0 +1,7 @@
+Customer STT: mere smartwatch ki battery swell ho gayi hai aur jalane ki smell aa rahi hai order number is five seven two six nine five one nine and phone ends in zero one zero one
+
+Agent Reply: नवीन जी, आपकी बैटरी फूलने और जलने की गंध आने की शिकायत सुरक्षा के लिहाज से बहुत गंभीर है। मैंने इसके लिए एक प्राथमिकता टिकट (टिकट आईडी: TKT7a31e2840c1e4f5dbc4a792e85d55f1a) बना दिया है, और हमारी सुरक्षा और सहायता टीम जल्द ही आपसे संपर्क करेगी। 
+
+कृपया तुरंत उस डिवाइस का उपयोग बंद कर दें और उसे किसी सुरक्षित, खुली जगह पर रखें।
+
+Sources Used: ['[Source: faq_hindi.md] ## [FAQH-2] कैश ऑन डिलीवरी का रिफ़ंड कैसे मिलेगा?\nआप ZentroMart Wallet में तुरंत रिफ़ंड ले सकते हैं, या बैंक ट्रांसफ़र चुन सकते हैं। बैंक ट्रांसफ़र में बैंक डिटेल्स वेरिफ़ाई होने के बाद 5 से 7 कामकाजी दिन लगते हैं।', '[Source: faq_hindi.md] ---\ndoc_id: FAQ-HIN\ntitle: अक्सर पूछे जाने वाले सवाल\ndoc_type: faq\naudience: customer\nlanguage: hi\nversion: 1.0\neffective_from: 2026-08-01\nstatus: current\n---', '[Source: faq_hindi.md] # अक्सर पूछे जाने वाले सवाल']

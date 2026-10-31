@@ -1,0 +1,5 @@
+Customer STT: my order four eight eight one two six two eight shows as delivered on the app but i haven't received it anywhere
+
+Agent Reply: I'd be happy to help you with your order status. Could you please provide either the last 4 digits of the phone number used for the order or the 6-digit delivery pincode so I can verify your account and check on this for you?
+
+Sources Used: ['[Source: help_track_order.md] ## [TRK-2] Delivered but not received\nIf an order shows Delivered but the customer has not received it, check with family, neighbours or the building security, then report it within 48 hours as a missing item under DWM-1.', '[Source: help_track_order.md] # Tracking your order', '[Source: pol_cancellations.md] ## [CAN-1] Before the order ships\nAny order can be cancelled free of charge until it is shipped, by the customer from My Orders in the app. The support assistant cannot cancel orders itself; it guides the customer to My Orders. The refund is initiated immediately.']

@@ -1,0 +1,5 @@
+Customer STT: does the product with sku ele zero one two come with a zentromart assured warranty
+
+Agent Reply: I'm sorry, but I couldn't find a product with SKU "ele zero one two" in our catalog. Could you please double-check the SKU?
+
+Sources Used: ['[Source: pol_warranty_assured.md] ## [WAR-2] ZentroMart Assured\nProducts marked `assured = true` in the catalog carry a 12-month ZentroMart Assured warranty from the delivery date, in addition to any brand warranty. Claims are raised in the app under My Orders, and ZentroMart arranges pickup and repair or replacement.', '[Source: pol_marketplace_sellers.md] ## [MKS-3] Warranty\nZentroMart Assured never applies to marketplace seller items, even if the listing says assured. Seller items carry only the brand warranty.', '[Source: pol_warranty_assured.md] # Warranty and ZentroMart Assured']

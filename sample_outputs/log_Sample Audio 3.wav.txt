@@ -1,0 +1,15 @@
+Customer STT: mera order five four two three nine five five zero cancel ho gaya tha uska status kya hai phone k aakhiri chaar digit hai zero nine eight six
+
+Agent Reply: नमस्ते नंदिनी जी,
+
+आपके ऑर्डर **54239550** का स्टेटस 'cancelled' (रद्द) है। 
+
+आपके इस ऑर्डर का रिफ़ंड विवरण इस प्रकार है:
+- **रिफ़ंड राशि:** ₹5,278
+- **रिफ़ंड तरीका:** UPI
+- **रिफ़ंड इनिशिएट दिनांक:** 17 अक्टूबर 2026
+- **RRN नंबर:** 615423955001
+
+यदि रिफ़ंड से संबंधित आपका कोई अन्य सवाल है, तो कृपया बताएं।
+
+Sources Used: ['[Source: faq_hindi.md] ---\ndoc_id: FAQ-HIN\ntitle: अक्सर पूछे जाने वाले सवाल\ndoc_type: faq\naudience: customer\nlanguage: hi\nversion: 1.0\neffective_from: 2026-08-01\nstatus: current\n---', '[Source: faq_hindi.md] ## [FAQH-2] कैश ऑन डिलीवरी का रिफ़ंड कैसे मिलेगा?\nआप ZentroMart Wallet में तुरंत रिफ़ंड ले सकते हैं, या बैंक ट्रांसफ़र चुन सकते हैं। बैंक ट्रांसफ़र में बैंक डिटेल्स वेरिफ़ाई होने के बाद 5 से 7 कामकाजी दिन लगते हैं।', '[Source: faq_hindi.md] ## [FAQH-3] खराब या गलत सामान आया तो क्या करें?\nडिलीवरी के 48 घंटे के अंदर सामान और पैकेट की फ़ोटो के साथ शिकायत करें। जाँच के बाद मुफ़्त रिप्लेसमेंट या पूरा रिफ़ंड मिलेगा।']

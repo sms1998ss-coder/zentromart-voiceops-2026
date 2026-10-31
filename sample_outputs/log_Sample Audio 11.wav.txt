@@ -1,0 +1,8 @@
+Customer STT: zentromart plus membership na benefit sucha nahi price such
+
+Agent Reply: ZentroMart Plus membership ka price ₹999 per year hai. Iske benefits yeh hain:
+- Lightning-fast delivery
+- Hassle-free returns
+- Money back faster than ever
+
+Sources Used: ['[Source: pol_plus_membership.md] ## [PLS-1] Price\nZentroMart Plus costs ₹999 a year.', '[Source: mkt_plus_benefits_page.md] ## [MKT-1] Shop more, worry less\nLightning-fast delivery, hassle-free returns and money back faster than ever. Join ZentroMart Plus for just ₹999 a year.', '[Source: pol_plus_membership.md] # ZentroMart Plus membership']

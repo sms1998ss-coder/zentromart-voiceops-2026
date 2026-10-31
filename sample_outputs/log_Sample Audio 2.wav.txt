@@ -1,0 +1,5 @@
+Customer STT: where is my order four eight eight one two six two eight
+
+Agent Reply: Could you please provide either the last 4 digits of your registered phone number or the 6-digit delivery pincode for order 48812628?
+
+Sources Used: ['[Source: help_track_order.md] # Tracking your order', '[Source: help_track_order.md] ---\ndoc_id: HLP-TRK\ntitle: Tracking your order\ndoc_type: help\naudience: customer\nlanguage: en\nversion: 1.0\neffective_from: 2026-02-01\nstatus: current\n---', '[Source: agent_identity_verification.md] ## [IDV-2] How to verify\nAsk for the order ID, then ask for **one** of: the last 4 digits of the registered phone number, or the delivery pincode for that order. Compare with the `phone_last4` or `delivery_pincode` fields from order lookup.']

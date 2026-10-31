@@ -1,0 +1,10 @@
+Customer STT: what is the return window for electronics does it matter if i bought it before august first
+
+Agent Reply: Based on ZentroMart's return policy for electronics:
+
+* **For electronics delivered on or after 1 August 2026:** The return window is **7 days**.
+* **For electronics delivered before 1 August 2026:** They keep the earlier **10-day window** from version 3 of the policy. 
+
+So yes, the delivery date does matter!
+
+Sources Used: ['[Source: pol_returns_v4.md] ## [RET-3] Change to electronics returns\nFrom **1 August 2026**, the return window for electronics and accessories is 7 days. Electronics **delivered before 1 August 2026** keep the earlier 10-day window from version 3 of this policy.', '[Source: help_troubleshooting_electronics.md] If the problem continues after these steps, the item can be returned within its window or claimed under warranty.', '[Source: faq_general.md] ## [FAQ-2] Can I return something I bought?\nMost items can be returned within the return window. Some items, like grocery, cannot be returned.']

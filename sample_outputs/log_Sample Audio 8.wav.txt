@@ -1,0 +1,5 @@
+Customer STT: mera express delivery late ho gaya hai toh uska compensation kab aur kitna milega
+
+Agent Reply: Agent: यदि आपका **Express** ऑर्डर वादा की गई तारीख के बाद पहुंचता है, तो आपके द्वारा भुगतान किया गया ₹79 का एक्सप्रेस शुल्क स्वचालित रूप से 48 घंटों के भीतर ZentroMart वॉलेट में क्रेडिट कर दिया जाता है। ZentroMart Plus सदस्यों (जो कोई एक्सप्रेस शुल्क नहीं देते हैं) को कोई क्रेडिट नहीं मिलता है। मानक (Standard) डिलीवरी में देरी के लिए कोई मुआवजा नहीं दिया जाता है।
+
+Sources Used: ['[Source: faq_hindi.md] ---\ndoc_id: FAQ-HIN\ntitle: अक्सर पूछे जाने वाले सवाल\ndoc_type: faq\naudience: customer\nlanguage: hi\nversion: 1.0\neffective_from: 2026-08-01\nstatus: current\n---', '[Source: pol_delivery_shipping.md] ## [DEL-4] Late deliveries\nIf an **Express** order arrives after its promised date, the ₹79 express fee the customer paid is credited to ZentroMart Wallet automatically within 48 hours. ZentroMart Plus members, who pay no express fee, get no credit. There is no compensation for late Standard deliveries. Agents must not offer any other compensation.', '[Source: faq_hindi.md] # अक्सर पूछे जाने वाले सवाल']
